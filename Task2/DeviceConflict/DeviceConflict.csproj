@@ -42,14 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConflictWriter\IConflictWriter.cs" />
-    <Compile Include="ConflictWriter\JsonConflictWriter.cs" />
-    <Compile Include="DeviceInfoReader\IDeviceReader.cs" />
-    <Compile Include="DeviceInfoReader\JsonDeviceReader.cs" />
-    <Compile Include="DeviceResolver.cs" />
-    <Compile Include="DTO\DTOContract.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\ConflictWriter\IConflictWriter.cs" />
+    <Compile Include="src\ConflictWriter\JsonConflictWriter.cs" />
+    <Compile Include="src\DeviceInfoReader\IDeviceReader.cs" />
+    <Compile Include="src\DeviceInfoReader\JsonDeviceReader.cs" />
+    <Compile Include="src\DeviceResolver.cs" />
+    <Compile Include="src\DTO\DTOContract.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
