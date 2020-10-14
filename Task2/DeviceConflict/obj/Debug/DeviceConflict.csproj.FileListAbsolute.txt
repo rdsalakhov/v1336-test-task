@@ -1,0 +1,9 @@
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/bin/Debug/DeviceConflict.exe
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/bin/Debug/DeviceConflict.pdb
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/obj/Debug/DeviceConflict.csprojAssemblyReference.cache
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/obj/Debug/DeviceConflict.csproj.CoreCompileInputs.cache
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/obj/Debug/DeviceConflict.exe
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/obj/Debug/DeviceConflict.pdb
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/bin/Debug/Newtonsoft.Json.dll
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/bin/Debug/Newtonsoft.Json.xml
+/Users/romansalakhov/Desktop/projects/v1336-test-task/Task2/DeviceConflict/obj/Debug/DeviceConflict.csproj.CopyComplete
